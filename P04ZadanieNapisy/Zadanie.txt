@@ -17,3 +17,6 @@ Nastêpnie program powinien obliczyæ sumê tych liczb i wyœwietliæ j¹ na ekranie.
 Przyk³adowy wynik:
 Jeœli u¿ytkownik wprowadzi³ liczby 10 i 200, program powinien wyœwietliæ nastêpuj¹cy wynik:
 "Suma podanych liczb wynosi 210."
+
+
+https://github.com/tomasz-trener/27Dzien1
