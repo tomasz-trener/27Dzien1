@@ -6,7 +6,7 @@ j¹ na ekranie razem z informacj¹ o liczbie cyfr w wyniku.
 
 Przyk³adowy wynik:
 Jeœli u¿ytkownik wprowadzi³ liczby A=10 i B=200, 
-program powinien wyœwietliæ nastêpuj¹cy raport:
+program powinien wyœwietliæ nastêpuj¹cy raport: 
 "Wynik 210 sk³ada siê z 3 cyfr."
 
 
