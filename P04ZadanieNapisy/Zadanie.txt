@@ -1,0 +1,19 @@
+Czêœæ 1:
+Napisz program, który poprosi u¿ytkownika o podanie dwóch liczb
+A i B (po jednej liczbie na raz). 
+Nastêpnie program powinien obliczyæ sumê tych liczb i wyœwietliæ
+j¹ na ekranie razem z informacj¹ o liczbie cyfr w wyniku.
+
+Przyk³adowy wynik:
+Jeœli u¿ytkownik wprowadzi³ liczby A=10 i B=200, 
+program powinien wyœwietliæ nastêpuj¹cy raport:
+"Wynik 210 sk³ada siê z 3 cyfr."
+
+
+Czêœæ 2:
+Program powinien poprosiæ u¿ytkownika o podanie dwóch liczb oddzielonych spacj¹. 
+Nastêpnie program powinien obliczyæ sumê tych liczb i wyœwietliæ j¹ na ekranie.
+
+Przyk³adowy wynik:
+Jeœli u¿ytkownik wprowadzi³ liczby 10 i 200, program powinien wyœwietliæ nastêpuj¹cy wynik:
+"Suma podanych liczb wynosi 210."
