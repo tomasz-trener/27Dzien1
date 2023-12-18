@@ -3,10 +3,6 @@
     Prosi o wprowadzenie wagi (w kilogramach) i wzrostu (w centymetrach).
     Oblicza wskaźnik BMI (Body Mass Index) według wzoru
     
-    $$
-    BMI = \frac{waga}{wzrost^2}
-    $$
-
     BMI=waga/wzrost^2 (waga w kg a wzrost w metrach )
     Wyświetla wynik wraz z informacją, czy BMI wskazuje na niedowagę, prawidłową wagę, nadwagę, czy otyłość.
 
