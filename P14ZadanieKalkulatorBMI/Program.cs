@@ -24,9 +24,10 @@ namespace P14ZadanieKalkulatorBMI
             // double bmi = Convert.ToDouble(waga) / (wzrost/100 * wzrost/100);
             double bmi = Convert.ToDouble(waga) / Math.Pow(wzrost/100,2);
 
-            Console.WriteLine($"Twoje BMI wynosi {bmi}");
+            Console.WriteLine($"Twoje BMI wynosi {bmi:F2}"); // F2 oznacza sformatowanie danej liczby do 2 miejsc po przecinku 
+            //Console.WriteLine($"Twoje BMI wynosi {bmi:0.000}"); // a tak np do 3 miejsc po przeciku 
 
-            if(bmi < 18.5)
+            if (bmi < 18.5)
                 Console.WriteLine("Masz niedowage");
             else if (bmi < 25)
                 Console.WriteLine("Twoja waga jest w normie");

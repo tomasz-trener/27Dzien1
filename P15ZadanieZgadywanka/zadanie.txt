@@ -1,0 +1,19 @@
+Napisz program, który bêdzie symulacj¹ gry w zgadywanie liczby. Program powinien dzia³aæ wed³ug poni¿szych zasad:
+
+    Losowanie Liczby: Na pocz¹tku gry program losuje liczbê ca³kowit¹ z zakresu od 1 do 10.
+
+    Zgadywanie Liczby: U¿ytkownik próbuje zgadn¹æ, jak¹ liczbê wylosowa³ program. 
+    Po ka¿dej próbie, program informuje u¿ytkownika, czy zgad³ liczbê.
+
+    Podpowiedzi 'Zimno' lub 'Ciep³o': Jeœli u¿ytkownik jest bli¿ej odgadniêcia liczby ni¿ w poprzedniej próbie, 
+    program wypisuje "Ciep³o". Jeœli jest dalej, wypisuje "Zimno".
+
+    Liczba Prób: Program zlicza liczbê prób u¿ytkownika i wyœwietla j¹ po odgadniêciu liczby.
+
+    Zakoñczenie Gry: 
+    Gra koñczy siê, gdy u¿ytkownik odgadnie liczbê. 
+    Program wyœwietla wtedy gratulacje oraz liczbê prób, które by³y potrzebne do odgadniêcia liczby.
+
+Wskazówki
+    U¿yj funkcji do losowania liczb (Random).
+    int wylosowanaLiczba = new Random().Next(1, 11);
