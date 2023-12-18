@@ -69,7 +69,7 @@ namespace P07InstrukcjeWarunkowe
 
             string wyn1 = wzrost > 180 ? "wysoki" : "niski";
 
-            string wynik2 = wzrost > 180 ? "wyoski" : wzrost < 160 ? "niski" : "średnmi";
+            string wynik2 = wzrost > 180 ? "wysoki" : wzrost < 160 ? "niski" : "średnmi";
         }
     }
 }
