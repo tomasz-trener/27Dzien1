@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03WczytywanieDanych", "P03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04ZadanieNapisy", "P04ZadanieNapisy\P04ZadanieNapisy.csproj", "{4329459A-BAAA-4222-9832-01E42C5A2EE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05Debugowanie", "P05Debugowanie\P05Debugowanie.csproj", "{90387898-93F1-4BB6-B26F-76138FD5A7F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06Operatory", "P06Operatory\P06Operatory.csproj", "{637FA721-BF8A-4652-9C6F-A2E35B5D71A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{4329459A-BAAA-4222-9832-01E42C5A2EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4329459A-BAAA-4222-9832-01E42C5A2EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4329459A-BAAA-4222-9832-01E42C5A2EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90387898-93F1-4BB6-B26F-76138FD5A7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90387898-93F1-4BB6-B26F-76138FD5A7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90387898-93F1-4BB6-B26F-76138FD5A7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90387898-93F1-4BB6-B26F-76138FD5A7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637FA721-BF8A-4652-9C6F-A2E35B5D71A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637FA721-BF8A-4652-9C6F-A2E35B5D71A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637FA721-BF8A-4652-9C6F-A2E35B5D71A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637FA721-BF8A-4652-9C6F-A2E35B5D71A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
