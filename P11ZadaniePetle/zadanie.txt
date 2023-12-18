@@ -1,0 +1,9 @@
+Napisz program, który poprosi u¿ytkownika o wprowadzenie dowolnego zdania z klawiatury,
+na przyk³ad "Ala ma kota i ma psa". Nastêpnie program powinien poprosiæ o wprowadzenie 
+dowolnego znaku lub wyrazu, na przyk³ad "ma".
+
+Program powinien zliczyæ, ile razy dany znak lub wyraz wystêpuje w podanym 
+przez u¿ytkownika zdaniu i wyœwietliæ tê informacjê na ekranie.
+
+Przyk³adowa odpowiedŸ programu dla wprowadzonego zdania "Ala ma kota i ma psa" i
+szukanego wyrazu "ma" powinna brzmieæ: "S³owo/znak 'ma' wystêpuje w podanym zdaniu 2 razy".
