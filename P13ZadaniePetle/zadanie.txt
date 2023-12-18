@@ -1,0 +1,4 @@
+Rozbuduj program P11 tak aby:
+
+--po wypisaniu raportu , ponownie pyta³ o inny szukany wyraz
+-- gdy napiszemy "koniec" program koñczy zadanie 
